@@ -14,3 +14,6 @@ class CostumeStores < ActiveRecord::Migrate[5.1]
       
       t.timestamps null: false
   end 
+end 
+  
+end 
