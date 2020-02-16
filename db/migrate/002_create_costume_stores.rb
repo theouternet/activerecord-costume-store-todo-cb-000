@@ -12,4 +12,5 @@ class CostumeStores < ActiveRecord::Migrate[5.1]
       t.datetime :opening_time
       t.datetime :closing_time
       
+      t.timestamps :null false
   end 
